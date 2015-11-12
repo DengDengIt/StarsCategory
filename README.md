@@ -28,10 +28,10 @@ classify nice works which receive my stars
   ![](https://github.com/w4lle/PullDownView/blob/master/pulldownLayout.gif)
 - [sticky-headers-recyclerview](https://github.com/timehop/sticky-headers-recyclerview) `Sticky Headers decorator for Android's RecyclerView`
 
-  ![](https://www.youtube.com/watch?v=zluBwbf3aew)
+  ![](http://i.imgur.com/I0ztoPw.gif)
 - [QuickReturn](https://github.com/lawloretienne/QuickReturn) `Showcases QuickReturn UI Pattern as either a header, footer, or both header and footer`
 
-  ![](https://www.youtube.com/watch?v=SxcvZ1qIyZ4)
+  ![](http://img.youtube.com/vi/SxcvZ1qIyZ4/0.jpg)
 - [Header2ActionBar](https://github.com/AChep/Header2ActionBar) `Header2ActionBar`
 
   ![](https://github.com/AChep/Header2ActionBar/raw/master/screenshots/device-2013-12-05-115925.png)
