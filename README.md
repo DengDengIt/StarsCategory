@@ -20,7 +20,32 @@ classify nice works which receive my stars
 - [SCTrelloNavigation](https://github.com/SergioChan/SCTrelloNavigation) ` iOS上类似trello的导航动效控件实现。`
 
   ![](https://raw.githubusercontent.com/SergioChan/SCTrelloNavigation/master/Image/previewgif.gif)
+- [MaterialIntroTutorial](https://github.com/spongebobrf/MaterialIntroTutorial) `Library demonstrating a material intro tutorial much like the ones on Google Sheets`
 
+  ![](https://github.com/spongebobrf/MaterialIntroTutorial/blob/master/example-usage.gif)
+- [PullDownView](https://github.com/w4lle/PullDownView) `大图作为header跟随手指向上滑动，下拉展示大图`
+
+  ![](https://github.com/w4lle/PullDownView/blob/master/pulldownLayout.gif)
+- [sticky-headers-recyclerview](https://github.com/timehop/sticky-headers-recyclerview) `Sticky Headers decorator for Android's RecyclerView`
+
+  ![](https://www.youtube.com/watch?v=zluBwbf3aew)
+- [QuickReturn](https://github.com/lawloretienne/QuickReturn) `Showcases QuickReturn UI Pattern as either a header, footer, or both header and footer`
+
+  ![](https://www.youtube.com/watch?v=SxcvZ1qIyZ4)
+- [Header2ActionBar](https://github.com/AChep/Header2ActionBar) `Header2ActionBar`
+
+  ![](https://github.com/AChep/Header2ActionBar/raw/master/screenshots/device-2013-12-05-115925.png)
+- [PullToZoomInListView](https://github.com/matrixxun/PullToZoomInListView) `An Android custom ListView with pull to zoom-in and parallax effect header like Path App.`
+
+  ![](https://github.com/matrixxun/PullToZoomInListView/raw/master/art/pull-to-zoom.gif)
+- [ParallaxHeaderViewPager](https://github.com/boxme/ParallaxHeaderViewPager) `Scrollable fragments within a viewpager that allows for parallax image and sticky bar effects`
+- [Splitflap`iOS`](https://github.com/yannickl/Splitflap) `A simple to use split-flap display for your Swift applications`
+
+  ![](https://camo.githubusercontent.com/d362ba4d3400975b9a5a39d6af5f277597773ee1/687474703a2f2f79616e6e69636b6c6f72696f742e636f6d2f7265736f75726365732f73706c6974666c61702d68656c6c6f2e676966)
+- [UPStackMenu`iOS`](https://github.com/ink-spot/UPStackMenu) `A fancy menu with a stack layout for iOS`
+
+  ![](https://github.com/ink-spot/UPStackMenu/blob/master/images/demo.gif)
+  
   
 ## Efficient Libs
 - [shelly](https://github.com/jtribe/shelly) `Fluent API for common Intent use-cases for Android`
@@ -46,3 +71,5 @@ classify nice works which receive my stars
 - [蜻蜓线上最新版apk v5.0.1反编译源码](https://github.com/cryfish2015/QingTingCheat)
 - [self-compile-Android](https://github.com/Tribler/self-compile-Android) `Autonomous smartphone app`
 - [img2css](https://github.com/javierbyte/img2css) `Convert any image to pure CSS`
+- [Nuwa](https://github.com/jasonross/Nuwa) `Nuwa, pure java implementation, can hotfix your android application.`
+- [HotFix](https://github.com/dodola/HotFix) `安卓App热补丁动态修复框架`
