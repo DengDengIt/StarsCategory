@@ -45,6 +45,12 @@ classify nice works which receive my stars
 - [UPStackMenu`iOS`](https://github.com/ink-spot/UPStackMenu) `A fancy menu with a stack layout for iOS`
 
   ![](https://github.com/ink-spot/UPStackMenu/blob/master/images/demo.gif)
+- [PullScrollView](https://github.com/MarkMjw/PullScrollView) `1.仿照新浪微博Android客户端个人中心的ScrollView，下拉背景伸缩回弹效果。 2.ScrollView仿IOS回弹效果。`
+- [discrollview](https://github.com/flavienlaurent/discrollview) `Scroll + discover = DiscrollView` ([on youtube](http://youtu.be/FGYaweSP3sA))
+- [awesome-animation](https://github.com/Animatious/awesome-animation) `A great list of open sourced UI Motion Library produced by Animatious Group.`
+- [FillableLoaders`iOS`](https://github.com/poolqf/FillableLoaders) `Completely customizable progress based loaders drawn using custom CGPaths written in Swift`
+
+  ![](https://github.com/poolqf/FillableLoaders/blob/master/Images/waves.gif)
   
   
 ## Efficient Libs
@@ -59,12 +65,18 @@ classify nice works which receive my stars
 - [GsonFormat](https://github.com/zzz40500/GsonFormat) `根据Gson库使用的要求,将JSONObject格式的String 解析成实体`
 
   ![](https://camo.githubusercontent.com/906f202f3172526a554e91825b85b53a9e02bdd4/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3136363836362d333863316639396336643039373336372e676966)
+- [retrofit](https://github.com/square/retrofit) `Type-safe HTTP client for Android and Java by Square, Inc.`
+- [ColorViewpager](https://github.com/SmartDengg/ColorViewpager) `一款演示引导页的简单Demo`
+
+  ![](https://camo.githubusercontent.com/cf8c3b69536f2b35206a6baf6c220d7ad3eabaa2/687474703a2f2f75706c6f61642d696d616765732e6a69616e7368752e696f2f75706c6f61645f696d616765732f3236383435302d323263663835616430656564373865382e6769663f696d6167654d6f6772322f6175746f2d6f7269656e742f7374726970)
+- [Treasure](https://github.com/baoyongzhang/Treasure) `Very easy use wrapper library for Android SharePreferences`
   
 
 ## Projects
 - [mytaskmanager](https://github.com/TheLester/mytaskmanager) `Open source application for managing running apps`
 
 ![](https://github.com/TheLester/mytaskmanager/blob/master/art/showcase.gif)
+- [RxWeather](https://github.com/SmartDengg/RxWeather) `Architecting Android with RxJava`
 
 ## Interesting tools
 - [BRICKS](https://github.com/Leask/BRICKS) `BRICKS is a list for all the domains blocked by the Chinese GFW.`
@@ -73,3 +85,6 @@ classify nice works which receive my stars
 - [img2css](https://github.com/javierbyte/img2css) `Convert any image to pure CSS`
 - [Nuwa](https://github.com/jasonross/Nuwa) `Nuwa, pure java implementation, can hotfix your android application.`
 - [HotFix](https://github.com/dodola/HotFix) `安卓App热补丁动态修复框架`
+- [KLog](https://github.com/ZhaoKaiQiang/KLog) `这是一个Android专用的LogCat工具，主要功能为打印行号、函数调用、Json解析、点击跳转等。灵感来自Logger`
+
+  ![](https://github.com/ZhaoKaiQiang/KLog/blob/master/image/demo.gif)
