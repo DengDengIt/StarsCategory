@@ -77,6 +77,8 @@ classify nice works which receive my stars
 
 ![](https://github.com/TheLester/mytaskmanager/blob/master/art/showcase.gif)
 - [RxWeather](https://github.com/SmartDengg/RxWeather) `Architecting Android with RxJava`
+- 
+- [u2020](https://github.com/JakeWharton/u2020) `A sample Android app which showcases advanced usage of Dagger among other open source libraries.`
 
 ## Interesting tools
 - [BRICKS](https://github.com/Leask/BRICKS) `BRICKS is a list for all the domains blocked by the Chinese GFW.`
