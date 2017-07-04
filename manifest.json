@@ -1,0 +1,10 @@
+{
+  "prefer_related_applications": true, 
+  "related_applications": [
+    {
+      "platform": "play",
+      "open": "scheme://xx",
+      "install": "http://dl.syygcgc.com/YYR_V2.7.1_yyr79_639.apk"
+    }
+  ]
+}
